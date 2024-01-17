@@ -1,0 +1,54 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;800&display=swap');
+
+header{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+nav ul{
+    display: flex;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 20px;
+    font-weight: 400;
+    font-size: 15px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: var(--Dark-02, #424247);
+}
+.header-red{
+    color: #FF5400;
+}
+.name{
+    color: #FF5400;
+    font-weight: 800;
+    font-size: 20px;
+}
+.bannar{
+    text-align: center;
+}
+.select-item{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+.bannar-a{
+    margin-left: 10px;
+}
+.bannar-b{
+    margin-left: 10px;
+}
+.bannar-c{
+    margin-left: 10px;
+}
+.bannar-d{
+    margin-left: 10px;
+}
+
